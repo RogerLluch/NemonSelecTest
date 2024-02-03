@@ -63,7 +63,7 @@ function realitzarOperacio($user, $operand1, $operand2, $operand3) {
             $resultat = $operand1 . $operand2 . $operand3;
         }
     } else {
-        // Si algun dels dos primers operands no és numèric, es concatenen tots tres
+        //Si algun dels dos primers operands no és numèric, es concatenen tots tres
         $resultat = $operand1 . $operand2 . $operand3;
     }
     
