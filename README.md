@@ -33,7 +33,7 @@ La base de dades emprada s'anomena "calculadora_db" i conté una única taula no
 La taula te l'estructura següent(hi ha que tenir en compte que s'ha de crear la mateixa taula):
 
 
-https://raw.githubusercontent.com/RogerLluch/NemonSelecTest/main/EstructuraTaulaHistorial.png
+![Imatge de l'estructura de la taula](https://raw.githubusercontent.com/RogerLluch/NemonSelecTest/main/EstructuraTaulaHistorial.png)
 
 
 Per a executar el codi és necessari crear la base de dades i la taula, a més de canviar els paràmetres 
