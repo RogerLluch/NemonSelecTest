@@ -32,7 +32,7 @@ guardar les operacions realitzades.
 La base de dades emprada s'anomena "calculadora_db" i conté una única taula nomenada "historial".
 La taula te l'estructura següent(hi ha que tenir en compte que s'ha de crear la mateixa taula):
 
-https://github.com/RogerLluch/NemonSelecTest/blob/main/EstructuraTaulaHistorial.png
+[https://github.com/RogerLluch/NemonSelecTest/blob/main/EstructuraTaulaHistorial.png](https://raw.githubusercontent.com/RogerLluch/NemonSelecTest/main/EstructuraTaulaHistorial.png)
 
 Per a executar el codi és necessari crear la base de dades i la taula, a més de canviar els paràmetres 
 de "username" i "password" a les línies 4 i 5. També tenir en compte que si no s'executa en un servidor
