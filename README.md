@@ -29,9 +29,10 @@ l’operació.
 
 Per a executar aquest test s'ha utilitzat un servidor XAMPP on tindrem una base de dades per a 
 guardar les operacions realitzades.
-La base de dades emprada s'anomena "calculadora_db" i conté una única taula nomenada "historial"
-La taula te l'estructura següent:
+La base de dades emprada s'anomena "calculadora_db" i conté una única taula nomenada "historial".
+La taula te l'estructura següent(hi ha que tenir en compte que s'ha de crear la mateixa taula):
 
+https://github.com/RogerLluch/NemonSelecTest/blob/main/EstructuraTaulaHistorial.png
 
 Per a executar el codi és necessari crear la base de dades i la taula, a més de canviar els paràmetres 
 de "username" i "password" a les línies 4 i 5. També tenir en compte que si no s'executa en un servidor
