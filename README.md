@@ -1,6 +1,6 @@
-## NemonSelecTest
+# NemonSelecTest
 
-# Descripció
+## Descripció
 Test de selecció per a nemon.
 El exercici proposat consisteix en el següent:
 
@@ -25,7 +25,7 @@ l’operació.
 
 -------------------------------------------------------------------------------------------------
 
-# Configuració
+## Configuració
 
 Per a executar aquest test s'ha utilitzat un servidor XAMPP on tindrem una base de dades per a 
 guardar les operacions realitzades.
